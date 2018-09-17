@@ -1,0 +1,4 @@
+DJANGO_READ_DOT_ENV_FILE=True
+DJANGO_SETTINGS_MODULE=config.settings.dev
+DJANGO_SECRET_KEY=!!!Set secret key!!!
+DJANGO_ADMIN_URL=!!!set admin url!!!

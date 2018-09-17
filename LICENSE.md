@@ -22,6 +22,7 @@ SOFTWARE.
 
 
 ==============================================================================
+
 Parts of Palimpsest come from [Cookiecutter Django](https://github.com/pydanny/cookiecutter-django):
 
 Copyright (c) 2013-2018, Daniel Roy Greenfeld
