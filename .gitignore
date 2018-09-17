@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+build/
+dist/
+env/
+wheels/
+
+# Unit test / coverage reports
+.coverage
+/coverage_html_report
+
+# Django stuff:
+migrations/
+palimpsest/static/
+config/settings/dev.py
+db.sqlite3
+
+# npm
+node_modules/
+
